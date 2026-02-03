@@ -5,7 +5,7 @@ The new, refined, 4-button keypad with a rotary encoder that is the best for eve
 To be honest, I like free stuff. I wanted to design my own things but I didn't have the motivation to start anything because I didn't know anything related. (secret project incoming). When I saw the "Blueprint" idea, I believed that was my moment, and here we are.
 
 # How to use
-Plug in a usb type C cable. The keys and knob will be programable through [Input Remapper}(https://github.com/sezanzeb/input-remapper).
+Plug in a usb type C cable. The keys and knob will be programable through [Input Remapper](https://github.com/sezanzeb/input-remapper).
 
 ![Render](render.png)
 ![PCB](pcb.png)
