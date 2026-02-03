@@ -1,0 +1,1 @@
+The pcb was easy to make but hard to design, to get the best ergonomics and all that jazz for me. As I said in the main readme, KiCAD is the best, the shit. It is romanian approved. :like: si aici

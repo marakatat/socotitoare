@@ -1,0 +1,23 @@
+{
+    "name": "Socotitoare",
+    "vendorId": "0xFEED",
+    "productId": "0x6060",
+    "lighting": "vialrgb",
+    "matrix": {
+      "rows": 2,
+      "cols": 3
+    },
+    "layouts": {
+      "keymap": [
+        [
+          {"x":0, "y":0}, "0,0",
+          {"x":1, "y":0}, "0,1",
+          {"x":2, "y":0}, "0,2"
+        ],
+        [
+          {"x":0, "y":1}, "1,0",
+          {"x":1, "y":1}, "1,1"
+        ]
+      ]
+    }
+  }
